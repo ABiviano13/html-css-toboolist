@@ -17,3 +17,57 @@
 .toboolist{
     display: inline-block;
 }
+
+/* Proprietà main-square */
+main{
+    background-color: #f5f8f9;
+    padding: 50px;
+}
+ .container-square{ 
+    background-color: #FFFFFF;
+    width: 700px;
+    height: 700px;
+    margin: 0 auto;
+    max-width: 700px;
+    border-radius: 5px;
+ }
+
+/* Proprietà Nav */
+.add{
+    margin-top: 15px;
+}
+.task{
+    background-color: #48adf1;
+    color: white;
+    border: 0;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 25px;
+}
+.section{
+    background-color: white;
+    color: lightgray;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Proprietà sezioni */
+.titolo-sezione{
+    display: inline-block;
+}
+.sezione{
+    margin-left: 35px;
+    margin-top: 40px;
+}
+/* sezioni in dettaglio */
+.testo-sezione{
+    margin-top: 5px;
+}
+.cerchio-editorial{
+    font-size: x-small;
+    color: white;
+    background-color: #45abea;
+    border-radius: 10px;
+    padding: 5px;
+}
