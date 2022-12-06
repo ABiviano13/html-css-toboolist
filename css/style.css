@@ -1,0 +1,19 @@
+/* Regola di reset */
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* Proprietà di header */
+.barra-titolo{
+    background-color: #FFFFFF ;
+}
+/* Regola per centrare verticalmente */
+.logo{
+    vertical-align: middle;
+    margin-right: 15px;
+    height: 54px;
+}
+.toboolist{
+    display: inline-block;
+}
