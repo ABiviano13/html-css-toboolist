@@ -60,14 +60,48 @@ main{
     margin-left: 35px;
     margin-top: 40px;
 }
+
+/* reset list item e proprietà*/
+ol li{
+    list-style: none;
+    margin-top: 10px;
+ }
+
 /* sezioni in dettaglio */
-.testo-sezione{
-    margin-top: 5px;
-}
-.cerchio-editorial{
+.cerchio{
     font-size: x-small;
     color: white;
-    background-color: #45abea;
     border-radius: 10px;
     padding: 5px;
+}
+.editorial{
+    background-color: #45abea;
+}
+.goals{
+    background-color: #9c72e4;
+}
+.recruiting{
+    background-color: #63c0a9;
+}
+.mobile{
+    background-color: #f29e33;
+}
+.website{
+    background-color: #d763a1;
+}
+.sales{
+    background-color: #b0c925;
+}
+
+.check{
+    border: 1px solid lightgreen;
+    color: lightgreen;
+    font-size: 13px;
+    border-radius: 100px;
+}
+.cross{
+    border: 1px solid red;
+    color: red;
+    font-size: 13px;
+    border-radius: 100px;
 }
